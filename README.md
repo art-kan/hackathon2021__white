@@ -7,6 +7,7 @@ A *tool* to facilitate traffic incidents.
 
 Uses:
 1. weatherapi.com - to get data about weather
+2. (TODO) Google Maps - to get traffic data
 
 
 ## Installation
